@@ -1,0 +1,38 @@
+Artificial Intelligence in Healthcare: An Overview
+
+Introduction
+Artificial intelligence (AI) is transforming healthcare by enabling faster and more accurate
+diagnosis, personalized treatment planning, and improved patient outcomes. Machine learning
+models trained on medical imaging data can detect diseases such as pneumonia, cancer, and
+diabetic retinopathy with accuracy comparable to or exceeding that of human specialists.
+
+Key Applications
+
+Medical Image Analysis
+Convolutional neural networks (CNNs) have demonstrated strong performance in analyzing
+chest X-rays, MRI scans, and histopathology slides. Transfer learning using pretrained
+models such as ResNet, DenseNet, and VGG has enabled high accuracy on medical datasets
+even when labeled training data is limited.
+
+Natural Language Processing in Clinical Records
+NLP models extract structured information from unstructured clinical notes, discharge
+summaries, and radiology reports. Named entity recognition identifies diagnoses, medications,
+and procedures. Large language models assist clinicians by summarizing patient histories
+and flagging potential drug interactions.
+
+Predictive Analytics
+Hospitals use predictive models to forecast patient readmission risk, ICU deterioration,
+and sepsis onset. These models integrate structured EHR data, vital signs, and lab results
+to generate real-time risk scores that support clinical decision-making.
+
+Data Privacy and Ethics
+Healthcare AI development requires careful handling of protected health information (PHI)
+under HIPAA regulations. Federated learning enables model training across multiple
+institutions without sharing raw patient data. Explainability methods such as SHAP and
+Grad-CAM help clinicians understand model predictions and build trust in AI-assisted tools.
+
+Challenges
+Despite significant progress, healthcare AI faces challenges including dataset bias,
+limited generalizability across institutions, regulatory approval processes, and
+integration with existing clinical workflows. Addressing these challenges requires
+collaboration between data scientists, clinicians, and health system administrators.
