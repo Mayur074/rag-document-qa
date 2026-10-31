@@ -6,7 +6,7 @@ A production-grade **Retrieval-Augmented Generation (RAG)** pipeline that answer
 ![LangChain](https://img.shields.io/badge/LangChain-0.2-green)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0.5-orange)
 ![Claude](https://img.shields.io/badge/Claude-Sonnet-purple)
-![CI](https://github.com/yourgithub/rag-document-qa/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Mayur074/rag-document-qa/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -56,7 +56,7 @@ Documents (PDF/TXT)
 ## Quickstart
 
 ```bash
-git clone https://github.com/yourgithub/rag-document-qa.git
+git clone https://github.com/Mayur074/rag-document-qa.git
 cd rag-document-qa
 pip install -r requirements.txt
 
